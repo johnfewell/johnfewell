@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack developer specializing in Typescript and Angular. 
+I'm a full-stack developer specializing in Typescript and agenic systems development. 
 
 [You can find my StackOverflow profile here.](https://stackoverflow.com/users/10480323/meqwz?tab=profile)
 
