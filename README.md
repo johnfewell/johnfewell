@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack developer specializing in Typescript and agenic systems development. 
+I'm a full-stack developer specializing in Typescript and agentic systems development. 
 
 [You can find my StackOverflow profile here.](https://stackoverflow.com/users/10480323/meqwz?tab=profile)
 
