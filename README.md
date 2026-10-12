@@ -4,8 +4,6 @@ Senior full-stack engineer in Toronto. Angular and TypeScript up front, Node and
 
 **Open source**
 
-I've recently started contributing to [MinusPod](https://github.com/ttlequals0/MinusPod), an open-source, self-hosted tool that removes ads from podcasts for fewer interruptions while listening. My first [merged contribution](https://github.com/ttlequals0/MinusPod/pull/793) fixed an ad-detection bug that let some sponsor segments slip through, with regression tests to cover the edge case.
-
 Contributor to Elf, Netanel Basal's reactive state manager built on RxJS and the successor to Akita:
 
 - [Add a callback to change state before save](https://github.com/ngneat-archive/elf/commit/e21793a4e5b20853c35c3ad98521b9fc69eb1a61)
