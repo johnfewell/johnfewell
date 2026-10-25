@@ -2,6 +2,12 @@
 
 Senior full-stack engineer in Toronto. Angular and TypeScript up front, Node and Python behind, seven years of production work. The last year was at an AI-native SaaS company, shipping through spec-driven agent workflows with review and tests on every change.
 
+**Building**
+
+[Slop Toronto](https://github.com/johnfewell/slop-toronto): downtown Toronto in 3D in the browser, in three.js WebGPU and TSL on the engine of mrdoob's [Slop New York](https://github.com/mrdoob/slop-newyork). The TTC subway over the Bloor Viaduct, streetcars and GO trains on the real network, and the city's own street furniture from City of Toronto Open Data. [Ride it live](https://slop-toronto.cloud6711.workers.dev/explore.html).
+
+[![Slop Toronto: the Osgoode subway pylon at dusk, a park sign at Trinity Bellwoods, the Strachan Avenue underpass, Line 2 by Vincent Yard](https://raw.githubusercontent.com/johnfewell/slop-toronto/main/docs/images/grid.jpg)](https://slop-toronto.cloud6711.workers.dev/explore.html)
+
 **Open source**
 
 Contributor to Elf, Netanel Basal's reactive state manager built on RxJS and the successor to Akita:
