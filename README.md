@@ -1,6 +1,6 @@
 ### John Fewell
 
-Senior full-stack engineer in Toronto. Angular and TypeScript up front, Node and Python behind, seven years of production work. The last year was at an AI-native SaaS company, shipping through spec-driven agent workflows with review and tests on every change.
+Senior full-stack engineer in Toronto. Angular and TypeScript up front, Node and Python behind, seven years of production work. Many more years of working on my own stuff before that. The last year was at an AI-native SaaS company, shipping through spec-driven agent workflows with review and tests on every change.
 
 **Building**
 
